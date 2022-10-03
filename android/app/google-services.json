@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "59837575293",
+    "project_id": "fluttersocial-dab0d",
+    "storage_bucket": "fluttersocial-dab0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59837575293:android:a51b214be6c89c84124114",
+        "android_client_info": {
+          "package_name": "com.example.fluttersocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59837575293-rggib0mcacii5pnif5p781g8fpa213d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBultzwJzQXLsezax0cVMcjBid_IXOmg3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59837575293-rggib0mcacii5pnif5p781g8fpa213d0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59837575293-kdlo3jjbstd1qgqpi678ulbtfmmog49c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fluttersocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
